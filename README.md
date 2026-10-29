@@ -3,7 +3,7 @@
 INTB 3355 Final Project (Option 3: Website Reflection) by Lukas Wendossen.
 University of Houston, C. T. Bauer College of Business, Fall 2026, Section 16918.
 
-Live site: https://lukaswendossen.github.io/intb-final-project/
+Live site: https://lukaswendossen.github.io/INTB-Final-Project/
 
 ## What's in this folder
 
